@@ -1,3 +1,42 @@
 body{
     background-color: red;
 }
+header{
+    position: relative;
+    left: 50px;
+}
+#title1{
+    text-align: center;
+    font-size: xx-large;
+}
+#text1{
+    text-align: center;
+    font-size: x-large;
+}
+#main_list{
+    font-size: large;
+}
+#main_element_1{
+    font-size: x-large;
+}
+#main_element_2{
+    font-size: x-large;
+}
+.elements{
+    font-size: x-large;
+}
+footer{
+    font-size: x-large;
+    position: relative;
+    top: 8cm;
+}
+#img_linkedln{
+    width: 2cm;
+    height: 2cm;
+}
+#img_pdf{
+    width: 2cm;
+    height: 2cm;
+    position: relative;
+    left: 1cm;
+}
