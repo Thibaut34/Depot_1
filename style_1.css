@@ -61,6 +61,7 @@ footer{
     left: 19.5cm;
 }
 .html_text{
+    background-color: white;
     font-size: 130%;
     font-weight: bold;
     position: relative;
@@ -75,4 +76,22 @@ footer{
 #img_fleche{
     width: 2cm;
     height: 2cm;
+}
+#css_title{
+    font-size: 400%;
+    position: relative;
+    left: 19.5cm;
+}
+.css_text{
+    background-color: white;
+    font-size: 130%;
+    font-weight: bold;
+    position: relative;
+    left: 13cm;
+}
+#img_css{
+    width: 3cm;
+    height: 4cm;
+    position: relative;
+    left: 23cm;
 }
